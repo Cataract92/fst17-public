@@ -3,10 +3,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <name>FST17 Public</name>
-    <groupId>de.unitrier.st.fst17public</groupId>
+    <groupId>de.unitrier.st.fst17.list</groupId>
     <artifactId>list</artifactId>
     <version>0.1</version>
-    <url>https://github.com/sbaltes/fst17-public</url>
+    <url>https://github.com/Cataract92/fst17-public</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
